@@ -1,4 +1,4 @@
-module github.com/stamhe-team/protobuf
+module github.com/web3password/protobuf
 
 go 1.20
 
