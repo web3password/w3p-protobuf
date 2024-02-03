@@ -1,4 +1,4 @@
-module github.com/web3password/web3-protobuf
+module github.com/web3password/w3p-protobuf
 
 go 1.20
 
